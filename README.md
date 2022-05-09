@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://skydevops.co.in](https://skydevops.co.in)
 
-- 📝 I regularly write articles on [https://yebbaresoftwaresolutions.com](https://yebbaresoftwaresolutions.com)
+- 📝 I regularly write articles on [https://yebbaresoftwaresolutions.com](https://skydevops.co.in)
 
 - 💬 Ask me about **Devops, PowerShell, Ansible, Docker, Nexus, Jenkins, Terraform, AEM, Artifactory, UrbanCode, ELK, MongoDB, Artifactory, Automation, CI-CD**
 
 - 📫 You can reach me @ **syebbare@skydevops.in**
 
-- 📄 Know about my experiences [https://yebbaresoftwaresolutions.com](https://yebbaresoftwaresolutions.com)
+- 📄 Know about my experiences [https://yebbaresoftwaresolutions.com](https://skydevops.co.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
